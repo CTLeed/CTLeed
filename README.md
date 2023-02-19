@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+:sunglasses: Welcome to my GitHub! I am a passionate new developer who is looking to learn and improve as much as possible. I am open to offers to collaborate and looking to get my foot in the door professionally.
+
+- :movie_camera: I’m currently working on a project using React as the front end and Java with Spring Boot as the back end. It is a mock project of movie theater ticket sales which should allow the user to select the movie, the time, and then the seats. 
+
 <!--
 **CTLeed/CTLeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
